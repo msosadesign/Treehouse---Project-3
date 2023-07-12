@@ -1,6 +1,8 @@
 # Treehouse Project 3
 A signup form for a coding newsletter. It's fully responsive and uses verification to make sure every field is filled correctly.
 
+Link: https://msosadesign.github.io/treehouse-project-3/
+
 Technologies used:
 - HTML/CSS
 
