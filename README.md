@@ -6,8 +6,6 @@ Link: https://msosadesign.github.io/treehouse-project-3/
 Technologies used:
 - HTML/CSS
 
-Link: https://msosadesign.github.io/treehouse-project-3/
-
 This is the third project in the Front-end Development Techdegree meant to test my knowledge in web forms. I was tasked with creating a newsletter form. I used flexbox and other layout utilities to make a responsive form.
 
 ![image](https://github.com/msosadesign/treehouse-project-3/assets/59977013/3cfec2f1-a6f5-4b4a-a748-cd13f3fb87f0)
